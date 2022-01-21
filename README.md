@@ -7,4 +7,4 @@ Hi, I'm @saijim
 - Used to play a ton of computer games but is now "too old".
 - Loves technology.
 - Loves Cologne (the city, not the perfume).
-- Loves his wife and son even more.
+- Loves his wife and sons even more.
