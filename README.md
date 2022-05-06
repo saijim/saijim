@@ -1,7 +1,7 @@
 Hi, I'm @saijim
 
-- CTO at @alpha9-marketing
-- Python and javascript developer.
+- CTO at @alphaneun
+- Javascript and python developer.
 - Takes a lot of photos.
 - Listens to jazz while cooking for his wife.
 - Used to play a ton of computer games but is now "too old".
