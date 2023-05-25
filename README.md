@@ -1,6 +1,6 @@
 Hi, I'm @saijim
 
-- CTO at @alphaneun
+- Freelance developer at @netrebel-de
 - Javascript and python developer.
 - Takes a lot of photos.
 - Listens to jazz while cooking for his wife.
