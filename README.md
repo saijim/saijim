@@ -1,9 +1,9 @@
 Hi, I'm @saijim
 
-- Freelance developer at @netrebel-de
-- Javascript and python developer.
+- Staff Engineer at @Eurowings-Digital
+- Typescript/Python developer.
 - Takes a lot of photos.
-- Listens to jazz while cooking for his wife.
+- Listens to jazz while cooking for his family.
 - Used to play a ton of computer games but is now "too old".
 - Loves technology.
 - Loves Cologne (the city, not the perfume).
